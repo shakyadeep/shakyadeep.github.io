@@ -12973,6 +12973,11 @@ input[type=number]::-webkit-outer-spin-button {
         right: 8px
     }
 }
+@media screen and (max-width:400px) {
+   .contacts__form h1{
+    font-size: 1.5em;
+   }
+}
 
 .slider-carousel {
     position: relative
